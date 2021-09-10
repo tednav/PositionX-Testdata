@@ -16,3 +16,7 @@
 ## Others
 
 保存其他设备测试数据；
+
+## Two Branches
+
+Main：25MB以下；Master：25MB以上
